@@ -11,6 +11,9 @@ Pizzas – Includes pizza names, categories, and ingredients.
 
 pizza_types – Provides information on pizza sizes and prices.
 
+- Dashboard Interaction <a href="https://github.com/anamika122/SQL-Project/blob/main/PIZZA%20SALES%20ANALYSIS.pdf">View Dashboard</a>
+
+
 ## Objectives and Insights
 
 The analysis was performed at  **three levels of complexity**:
