@@ -4,8 +4,11 @@
 - The analysis is based on four CSV files that were imported into MySQL:
 
 order_details – Contains information on each order, including pizza ID and quantity.
+
 Orders – Contains details about each order, including date and time.
+
 Pizzas – Includes pizza names, categories, and ingredients.
+
 pizza_types – Provides information on pizza sizes and prices.
 
 ## Objectives and Insights
