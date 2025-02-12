@@ -28,17 +28,28 @@ Identified the top 3 most revenue-generating pizzas in each category.
 
 ## Insights
 • Total Pizza order placed 21350.
+
 • Total Revenue Generated from Pizza sales 817860.05
+
 • The Greek Pizza having highest price i.e,35.95
+
 • The most common pizza size is "L" having 18526 orders
+
 • Top 5 most ordered pizzas are 
-1.The Classic Deluxe Pizza 
-2.The Barbecue chicken Pizza 
-3.The Hawaiian Pizza 
-4.The Pepperoni Pizza 
+1.The Classic Deluxe Pizza
+
+2.The Barbecue chicken Pizza
+
+3.The Hawaiian Pizza
+
+4.The Pepperoni Pizza
+
 5.The Thai Chicken Pizza
+
 • Most order comes in between 12-7pm in a day that means afternoon is peak hour for pizza sale.
+
 • 138 pizzas get ordered per day.
+
 • Classic category contributed highest percentage of revenue i.e,26.91%
 
 ## Conclusion
